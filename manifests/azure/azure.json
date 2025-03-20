@@ -1,46 +1,46 @@
 {
-    "name": "azure",
-    "description": "A plugin to manage Azure Kubernetes Service (AKS) with workload identity.",
-    "homepage": "https://github.com/mossaka/spin-plugin-azure",
-    "version": "0.0.4",
-    "spinCompatibility": ">=2.3.1",
-    "license": "Apache-2.0",
-    "packages": [
-        {
-            "os": "linux",
-            "arch": "amd64",
-            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.0.4/spin-plugin-azure-0.0.4-linux-amd64.tar.gz",
-            "sha256": "9fc2515ab95c218fcd87ff8ada35ad6ba03266baa64f8ba720f4276ddb9fd022"
-        },
-        {
-            "os": "linux",
-            "arch": "aarch64",
-            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.0.4/spin-plugin-azure-0.0.4-linux-arm64.tar.gz",
-            "sha256": "9f8c40c7b788e9d616fa1e91355ff62f5d5f35bc99cc7c81b20c2d6343fb2bb2"
-        },
-        {
-            "os": "macos",
-            "arch": "amd64",
-            "url": "https://github.com/mossaka/spin-plugin-azure/releases/download/v0.0.4/spin-plugin-azure-0.0.4-darwin-amd64.tar.gz",
-            "sha256": "ecc27ab3ea6ef92ec12dba9d0358a62eb0cb4e25fa748878549ff07aad5f8d71"
-        },
-        {
-            "os": "macos",
-            "arch": "aarch64",
-            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.0.4/spin-plugin-azure-0.0.4-darwin-arm64.tar.gz",
-            "sha256": "70e1b17baf0b93695911701ce63da32b60ce5f4afa8e0aa68223126c0253d15c"
-        },
-        {
-            "os": "windows",
-            "arch": "amd64",
-            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.0.4/spin-plugin-azure-0.0.4-windows-amd64.tar.gz",
-            "sha256": "7041c3166d84df0afd69ee16f5122382f6c7dc3a69e6f843d29a1f5495268bf7"
-        },
-        {
-            "os": "windows",
-            "arch": "aarch64",
-            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.0.4/spin-plugin-azure-0.0.4-windows-arm64.tar.gz",
-            "sha256": "41edfa2bf88a7c194e1d38c3b10150cba21163fe735ad5f440fbd026ba49d160"
-        }        
-    ]
+  "name": "azure",
+  "description": "A plugin to manage Azure Kubernetes Service (AKS) with workload identity.",
+  "homepage": "https://github.com/mossaka/spin-plugin-azure",
+  "version": "0.0.4",
+  "spinCompatibility": ">=2.3.1",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "url": "https://github.com/mossaka/spin-plugin-azure/releases/download/v0.0.4/spin-plugin-azure-0.0.4-linux-amd64.tar.gz",
+      "sha256": "undefined"
+    },
+    {
+      "os": "linux",
+      "arch": "aarch64",
+      "url": "https://github.com/mossaka/spin-plugin-azure/releases/download/v0.0.4/spin-plugin-azure-0.0.4-linux-arm64.tar.gz",
+      "sha256": "undefined"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://github.com/mossaka/spin-plugin-azure/releases/download/v0.0.4/spin-plugin-azure-0.0.4-darwin-arm64.tar.gz",
+      "sha256": "undefined"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/mossaka/spin-plugin-azure/releases/download/v0.0.4/spin-plugin-azure-0.0.4-darwin-amd64.tar.gz",
+      "sha256": "undefined"
+    },
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "url": "https://github.com/mossaka/spin-plugin-azure/releases/download/v0.0.4/spin-plugin-azure-0.0.4-windows-amd64.tar.gz",
+      "sha256": "undefined"
+    },
+    {
+      "os": "windows",
+      "arch": "aarch64",
+      "url": "https://github.com/mossaka/spin-plugin-azure/releases/download/v0.0.4/spin-plugin-azure-0.0.4-windows-arm64.tar.gz",
+      "sha256": "undefined"
+    }
+  ]
 }
