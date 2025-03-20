@@ -1,0 +1,46 @@
+{
+    "name": "azure",
+    "description": "A plugin to manage Azure Kubernetes Service (AKS) with workload identity.",
+    "homepage": "https://github.com/mossaka/spin-plugin-azure",
+    "version": "0.0.3",
+    "spinCompatibility": ">=2.3.1",
+    "license": "Apache-2.0",
+    "packages": [
+        {
+            "os": "linux",
+            "arch": "amd64",
+            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.0.3/spin-plugin-azure-0.0.3-linux-amd64.tar.gz",
+            "sha256": "383e05443ecc64d1bc146fbf1f503ab51212c7a19c37a98e951fd8fffdf2c5fc"
+        },
+        {
+            "os": "linux",
+            "arch": "aarch64",
+            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.0.3/spin-plugin-azure-0.0.3-linux-arm64.tar.gz",
+            "sha256": "03410f000953d7300f06ca3e63233f2ca72b74d0d5fe83879aee9b33cc2c2ec9"
+        },
+        {
+            "os": "macos",
+            "arch": "amd64",
+            "url": "https://github.com/mossaka/spin-plugin-azure/releases/download/v0.0.3/spin-plugin-azure-0.0.3-darwin-amd64.tar.gz",
+            "sha256": "10e0e972aa359a3eac82c6314b5a10525beb497e68e23664a7a15ffb3ffa2773"
+        },
+        {
+            "os": "macos",
+            "arch": "aarch64",
+            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.0.3/spin-plugin-azure-0.0.3-darwin-arm64.tar.gz",
+            "sha256": "47a437bad5b48197797a0cd8f9fae0a900c3894ebe3c67ddcc31b4d44f8fb404"
+        },
+        {
+            "os": "windows",
+            "arch": "amd64",
+            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.0.3/spin-plugin-azure-0.0.3-windows-amd64.tar.gz",
+            "sha256": "e127c12a023edec259be1bca5e777d1e0b8735b4422079d4f0e70853e61444b9"
+        },
+        {
+            "os": "windows",
+            "arch": "aarch64",
+            "url": "https://github.com/Mossaka/spin-plugin-azure/releases/download/v0.0.3/spin-plugin-azure-0.0.3-windows-arm64.tar.gz",
+            "sha256": "bae22ed16a77bcec15d92b338c81f04d809a5ea78888f317f7267f7f242b5aa7"
+        }        
+    ]
+}
