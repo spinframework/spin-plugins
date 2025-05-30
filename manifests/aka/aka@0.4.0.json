@@ -10,31 +10,31 @@
       "os": "linux",
       "arch": "amd64",
       "url": "http://s3.amazonaws.com/fermyon-neutrino-artifacts-public/plugin/aka-0.4.0-linux-amd64.tar.gz",
-      "sha256": "c511620aad54b29f96d9f1a31abfd4740bcc4ea7ed59310aee64c86be0cf72b2"
+      "sha256": "6ce7efebf5a535b358c04f863505dd6ec2f26d18aef40b2825a1fcd05d9bd03e"
     },
     {
       "os": "linux",
       "arch": "aarch64",
       "url": "http://s3.amazonaws.com/fermyon-neutrino-artifacts-public/plugin/aka-0.4.0-linux-aarch64.tar.gz",
-      "sha256": "0d8afd8077c9f170a0ff00a3b17f4eaa7c8c2cb89f49ac98b4aafec55fd8a59d"
+      "sha256": "9e858e816492269ace34d382706ff347c65777f7d01d1af9027d004b6c80cebf"
     },
     {
       "os": "macos",
       "arch": "amd64",
       "url": "http://s3.amazonaws.com/fermyon-neutrino-artifacts-public/plugin/aka-0.4.0-macos-amd64.tar.gz",
-      "sha256": "15a2e5097b95fddaffe067f4e4f73121b94d20480f7562c5eb6b7021dd0de8fd"
+      "sha256": "65cd23b72988966cc69bbe705e914892b849d4a9334daeff9707a8f676b96398"
     },
     {
       "os": "windows",
       "arch": "amd64",
       "url": "http://s3.amazonaws.com/fermyon-neutrino-artifacts-public/plugin/aka-0.4.0-windows-amd64.tar.gz",
-      "sha256": "1d16ffe258cbf4410d930196dcb68c769b9a8ef4a545f0deaa76ece4f0f39a7c"
+      "sha256": "3aff40954ba381b4029d4d90c1ea3037a2b47fa3445e1805d85a6c3d248ed233"
     },
     {
       "os": "macos",
       "arch": "aarch64",
       "url": "http://s3.amazonaws.com/fermyon-neutrino-artifacts-public/plugin/aka-0.4.0-macos-aarch64.tar.gz",
-      "sha256": "18c1ea942d5de1bad77ede7835248d747f6f70a121983b07366a01d7f11f03da"
+      "sha256": "7f6b1a9908130e0454b43c3800552270cff5f14d3732cb95e0803a08dbf77552"
     }
   ]
 }
