@@ -1,0 +1,39 @@
+{
+  "name": "pluginify",
+  "description": "Package Spin plugins for faster iteration",
+  "version": "0.8.0",
+  "spinCompatibility": ">=0.7",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/itowlson/spin-pluginify/releases/download/v0.8.0/pluginify-0.8.0-macos-x86_64.tar.gz",
+      "sha256": "bf6e3e9e8e4532ad73ee37511043ad7d461edcae51334e68e8cf45a8c3094569"
+    },
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "url": "https://github.com/itowlson/spin-pluginify/releases/download/v0.8.0/pluginify-0.8.0-linux-x86_64.tar.gz",
+      "sha256": "24648e0d5e3d3cb78962665ff9628f3e3d3cc779694d93987576457988a382e6"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://github.com/itowlson/spin-pluginify/releases/download/v0.8.0/pluginify-0.8.0-macos-aarch64.tar.gz",
+      "sha256": "e0e1aa6f5ad8c1a2653284facf0090d9cbc3469f6a2229c6c43a544b82259bef"
+    },
+    {
+      "os": "linux",
+      "arch": "aarch64",
+      "url": "https://github.com/itowlson/spin-pluginify/releases/download/v0.8.0/pluginify-0.8.0-linux-aarch64.tar.gz",
+      "sha256": "936627ef46742f89f72fe57c8be9eab5a8acdeedb3b113c81852f9711999644c"
+    },
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "url": "https://github.com/itowlson/spin-pluginify/releases/download/v0.8.0/pluginify-0.8.0-windows-x86_64.tar.gz",
+      "sha256": "f581c64b62fe70b39671436363b981d3ff610a5b50d629b6abacba998ebfe021"
+    }
+  ]
+}
