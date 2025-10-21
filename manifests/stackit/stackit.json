@@ -1,0 +1,16 @@
+{
+  "name": "stackit",
+  "description": "StackIT Serverless plug-in.",
+  "homepage": "https://stackit.cloud",
+  "version": "1.4.0",
+  "spinCompatibility": ">=3.1",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "url": "https://github.com/stackitcloud/spin/releases/download/v1.3.0/stackit-1.4.0-linux-amd64.tar.gz",
+      "sha256": "0bae8078c6c948325b9932c88a15e1f02f893030e671f760592b928a2115e091"
+    }
+  ]
+}
