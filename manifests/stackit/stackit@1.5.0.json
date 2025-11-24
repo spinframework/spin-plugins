@@ -1,0 +1,40 @@
+{
+  "name": "stackit",
+  "description": "StackIT Serverless plug-in.",
+  "homepage": "https://stackit.cloud",
+  "version": "1.5.0",
+  "spinCompatibility": ">=3.1",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "url": "https://github.com/stackitcloud/spin/releases/download/v1.5.0/stackit-1.5.0-linux-amd64.tar.gz",
+      "sha256": "27ab143c0fbfbaf1e7689ec2f4baaacd17125f3c7154c21c8f27ad882624998d"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://github.com/stackitcloud/spin/releases/download/v1.5.0/stackit-1.5.0-macos-aarch64.tar.gz",
+      "sha256": "3bbfd29ed1eca83e6fc0f38bbe6aaf8f5d32254328f634989d2a229a6926cab6"
+    },
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "url": "https://github.com/stackitcloud/spin/releases/download/v1.5.0/stackit-1.5.0-windows-amd64.tar.gz",
+      "sha256": "4866fb6d704dfaa7e094f5cc9b87683917d16d93e4c2b2f082401feb8c463f06"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/stackitcloud/spin/releases/download/v1.5.0/stackit-1.5.0-macos-amd64.tar.gz",
+      "sha256": "32f15a34632b670bf27107afe86ff247b6a22771f4374a7cd5fc903755b88fa4"
+    },
+    {
+      "os": "linux",
+      "arch": "aarch64",
+      "url": "https://github.com/stackitcloud/spin/releases/download/v1.5.0/stackit-1.5.0-linux-aarch64.tar.gz",
+      "sha256": "28ecc2721c2beb9e2eaeac0036af6a8e7b836d0ed742dbebae8fbfe995686bdd"
+    }
+  ]
+}
