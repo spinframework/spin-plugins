@@ -2,39 +2,39 @@
   "name": "stackit",
   "description": "StackIT Serverless plug-in.",
   "homepage": "https://stackit.cloud",
-  "version": "1.5.0",
+  "version": "1.7.0",
   "spinCompatibility": ">=3.1",
   "license": "Apache-2.0",
   "packages": [
     {
       "os": "linux",
       "arch": "amd64",
-      "url": "https://github.com/stackitcloud/spin/releases/download/v1.5.0/stackit-1.5.0-linux-amd64.tar.gz",
-      "sha256": "27ab143c0fbfbaf1e7689ec2f4baaacd17125f3c7154c21c8f27ad882624998d"
+      "url": "https://github.com/stackitcloud/spin/releases/download/v1.7.0/stackit-1.7.0-linux-amd64.tar.gz",
+      "sha256": "b41d0e79aa9bdae6ad5cadb3474ac96c7314b1ac53bb25529850df40ff560a46"
     },
     {
       "os": "macos",
       "arch": "aarch64",
-      "url": "https://github.com/stackitcloud/spin/releases/download/v1.5.0/stackit-1.5.0-macos-aarch64.tar.gz",
-      "sha256": "3bbfd29ed1eca83e6fc0f38bbe6aaf8f5d32254328f634989d2a229a6926cab6"
+      "url": "https://github.com/stackitcloud/spin/releases/download/v1.7.0/stackit-1.7.0-macos-aarch64.tar.gz",
+      "sha256": "e5507b9f4c9fef2371387088047e4857f1e2a3c13e3b5d99bb9e39ec3fb93905"
     },
     {
       "os": "windows",
       "arch": "amd64",
-      "url": "https://github.com/stackitcloud/spin/releases/download/v1.5.0/stackit-1.5.0-windows-amd64.tar.gz",
-      "sha256": "4866fb6d704dfaa7e094f5cc9b87683917d16d93e4c2b2f082401feb8c463f06"
+      "url": "https://github.com/stackitcloud/spin/releases/download/v1.7.0/stackit-1.7.0-windows-amd64.tar.gz",
+      "sha256": "6845ee18d331bdac61d57b3706b73be480729161259a7d7ab4c6dd5658c45ecb"
     },
     {
       "os": "macos",
       "arch": "amd64",
-      "url": "https://github.com/stackitcloud/spin/releases/download/v1.5.0/stackit-1.5.0-macos-amd64.tar.gz",
-      "sha256": "32f15a34632b670bf27107afe86ff247b6a22771f4374a7cd5fc903755b88fa4"
+      "url": "https://github.com/stackitcloud/spin/releases/download/v1.7.0/stackit-1.7.0-macos-amd64.tar.gz",
+      "sha256": "c378db6a81698a511efd17e41ade90a4b18fda436cc1385a377cab7da71fd3d5"
     },
     {
       "os": "linux",
       "arch": "aarch64",
-      "url": "https://github.com/stackitcloud/spin/releases/download/v1.5.0/stackit-1.5.0-linux-aarch64.tar.gz",
-      "sha256": "28ecc2721c2beb9e2eaeac0036af6a8e7b836d0ed742dbebae8fbfe995686bdd"
+      "url": "https://github.com/stackitcloud/spin/releases/download/v1.7.0/stackit-1.7.0-linux-aarch64.tar.gz",
+      "sha256": "e2996dc1c70f1e74cab20e6b194d7a4c83008e1bd0a8c119dc2fbe3b4bcb39d0"
     }
   ]
 }
