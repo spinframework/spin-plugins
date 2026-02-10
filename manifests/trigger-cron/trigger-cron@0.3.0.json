@@ -1,0 +1,39 @@
+{
+  "name": "trigger-cron",
+  "description": "A Spin trigger for Cron events",
+  "version": "0.3.0",
+  "spinCompatibility": ">=3.0",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "linux",
+      "arch": "aarch64",
+      "url": "https://github.com/fermyon/spin-trigger-cron/releases/download/v0.3.0/trigger-cron-0.3.0-linux-aarch64.tar.gz",
+      "sha256": "6070bc27d6f4f625bd6f1dd264b38ceb0abe70ed75c4713f94fe585d52750b33"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/fermyon/spin-trigger-cron/releases/download/v0.3.0/trigger-cron-0.3.0-macos-amd64.tar.gz",
+      "sha256": "b27436c90a45dadab052ce011ea4aacc525aa96de213d84d8d7fcff0141b347c"
+    },
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "url": "https://github.com/fermyon/spin-trigger-cron/releases/download/v0.3.0/trigger-cron-0.3.0-linux-amd64.tar.gz",
+      "sha256": "ffebcdbd2c3d18068f257938a6163889ed562a955d8eea93cc70cb562e637fa0"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://github.com/fermyon/spin-trigger-cron/releases/download/v0.3.0/trigger-cron-0.3.0-macos-aarch64.tar.gz",
+      "sha256": "cb62019dc94cacf10d20e2dc31749e95a517170acee5eff83c26aaf265f410f8"
+    },
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "url": "https://github.com/fermyon/spin-trigger-cron/releases/download/v0.3.0/trigger-cron-0.3.0-windows-amd64.tar.gz",
+      "sha256": "d2620eb83b174c29a7292ead90d9478d4c764c09162e5a488551ad70fa1e4648"
+    }
+  ]
+}
