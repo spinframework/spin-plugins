@@ -1,34 +1,40 @@
 {
-  "name": "gh",
-  "description": "Generates GitHub Actions for Spin Apps",
-  "homepage": "https://github.com/fermyon/spin-gh-plugin",
-  "version": "0.0.6",
-  "spinCompatibility": ">=2.0.0",
-  "license": "Apache-2.0",
-  "packages": [
-    {
-      "os": "linux",
-      "arch": "aarch64",
-      "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.6/gh-0.0.6-linux-aarch64.tar.gz",
-      "sha256": "40d47fb061e8208d5743a3c21ed13e8b25f26a8e6341ecef8d9da5ebe61d8037"
-    },
-    {
-      "os": "macos",
-      "arch": "amd64",
-      "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.6/gh-0.0.6-macos-amd64.tar.gz",
-      "sha256": "a143dfcbcfb3983f2d03022bc7bdd0397e2af58e77595c327214de22917808e0"
-    },
-    {
-      "os": "macos",
-      "arch": "aarch64",
-      "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.6/gh-0.0.6-macos-aarch64.tar.gz",
-      "sha256": "b65a67ebce5b7f6fc51d22b5111e21bb1ea28771506a0abb9b3b274677242b31"
-    },
-    {
-      "os": "linux",
-      "arch": "amd64",
-      "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.6/gh-0.0.6-linux-amd64.tar.gz",
-      "sha256": "05142ebb389126e29098ce83e24fe036636ed988534f41e4cea1ff96c3feb959"
-    }
-  ]
+    "name": "gh",
+    "description": "Generates GitHub Actions for Spin Apps",
+    "homepage": "https://github.com/fermyon/spin-gh-plugin",
+    "version": "0.0.8",
+    "spinCompatibility": ">=2.0.0",
+    "license": "Apache-2.0",
+    "packages": [
+        {
+            "os": "macos",
+            "arch": "aarch64",
+            "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.8/gh-0.0.8-macos-aarch64.tar.gz",
+            "sha256": "e96eaaeac7cac8219849e5a907dc95b5dfa1b0a6044688dead44e39e1869f1f7"
+        },
+        {
+            "os": "linux",
+            "arch": "amd64",
+            "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.8/gh-0.0.8-linux-amd64.tar.gz",
+            "sha256": "29af5c3a288c270fc8b41caf7e9ce3499e6e488fe0a06acd332821796dc96736"
+        },
+        {
+            "os": "linux",
+            "arch": "aarch64",
+            "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.8/gh-0.0.8-linux-aarch64.tar.gz",
+            "sha256": "d43245a6120701b936471bc83d4dfd8e2c4df780ddc20dccbc61c5275f192921"
+        },
+        {
+            "os": "macos",
+            "arch": "amd64",
+            "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.8/gh-0.0.8-macos-amd64.tar.gz",
+            "sha256": "a2ab59a7286a1dd2111512dd2af7ec0d1cf31f0f17f707671d2c129e033ff81f"
+        },
+        {
+            "os": "windows",
+            "arch": "amd64",
+            "url": "https://github.com/fermyon/spin-gh-plugin/releases/download/v0.0.8/gh-0.0.8-windows-amd64.tar.gz",
+            "sha256": "021527e1df1794233456fa08008944f055607d03e250f51bd7f3b9058c22e622"
+        }
+    ]
 }
