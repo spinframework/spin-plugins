@@ -1,0 +1,40 @@
+{
+    "name": "akamai-functions-mcp",
+    "description": "An Akamai Functions MCP Server",
+    "homepage": "https://github.com/ThorstenHans/akamai-functions-mcp",
+    "version": "0.1.0",
+    "spinCompatibility": ">=2.0.0",
+    "license": "Apache-2.0",
+    "packages": [
+        {
+            "os": "linux",
+            "arch": "aarch64",
+            "url": "https://github.com/ThorstenHans/akamai-functions-mcp-server/releases/download/v0.1.0/akamai-functions-mcp-0.1.0-linux-aarch64.tar.gz",
+            "sha256": "de64be4033490bc0d87815ed5d2e60aecd961f6f80ccd7d7ca78d2ee59170e4b"
+        },
+        {
+            "os": "macos",
+            "arch": "aarch64",
+            "url": "https://github.com/ThorstenHans/akamai-functions-mcp-server/releases/download/v0.1.0/akamai-functions-mcp-0.1.0-macos-aarch64.tar.gz",
+            "sha256": "1d6c8ba5f80753a3bcbdae883197860cc2f4dcd2c1f5c646554cf09070b66e9a"
+        },
+        {
+            "os": "windows",
+            "arch": "amd64",
+            "url": "https://github.com/ThorstenHans/akamai-functions-mcp-server/releases/download/v0.1.0/akamai-functions-mcp-0.1.0-windows-amd64.tar.gz",
+            "sha256": "42c2d08bd03409be6edb8901d5c619e81cb01a53e92ca85c9b3352d11032a6ba"
+        },
+        {
+            "os": "macos",
+            "arch": "amd64",
+            "url": "https://github.com/ThorstenHans/akamai-functions-mcp-server/releases/download/v0.1.0/akamai-functions-mcp-0.1.0-macos-amd64.tar.gz",
+            "sha256": "27b3d4035d2d1b5cc2b5b27553bee3bee2c8204520a1a844fe8943b669565ccb"
+        },
+        {
+            "os": "linux",
+            "arch": "amd64",
+            "url": "https://github.com/ThorstenHans/akamai-functions-mcp-server/releases/download/v0.1.0/akamai-functions-mcp-0.1.0-linux-amd64.tar.gz",
+            "sha256": "10ccaf643dc5a0e3cccc804be5aa8da5b04df91897ca18266baffb3181197aa7"
+        }
+    ]
+}
