@@ -1,39 +1,39 @@
 {
   "name": "trigger-mqtt",
   "description": "A Spin trigger for MQTT events",
-  "version": "0.7.1",
+  "version": "0.7.2",
   "spinCompatibility": ">=2.0",
   "license": "MIT",
   "packages": [
     {
       "os": "linux",
-      "arch": "aarch64",
-      "url": "https://github.com/spinframework/spin-trigger-mqtt/releases/download/v0.7.1/trigger-mqtt-0.7.1-linux-aarch64.tar.gz",
-      "sha256": "e1dd62136cc767fff026a74bd8dce35442f54c9b5ef6192ce95f89ab8f91bae5"
+      "arch": "amd64",
+      "url": "https://github.com/spinframework/spin-trigger-mqtt/releases/download/v0.7.2/trigger-mqtt-0.7.2-linux-amd64.tar.gz",
+      "sha256": "1387474d936ddf7e6ab791633d467e6b1e3a99eefbf754909f920ee4708acc4e"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/spinframework/spin-trigger-mqtt/releases/download/v0.7.2/trigger-mqtt-0.7.2-macos-amd64.tar.gz",
+      "sha256": "0555946cb473e014412c2b21d19d58fe3f39ba7273c22caaa10317522357b74b"
     },
     {
       "os": "windows",
       "arch": "amd64",
-      "url": "https://github.com/spinframework/spin-trigger-mqtt/releases/download/v0.7.1/trigger-mqtt-0.7.1-windows-amd64.tar.gz",
-      "sha256": "25c645f15ccaced6696027805901e72a715ac9d7868549cc437266ecd37e4196"
-    },
-    {
-      "os": "macos",
-      "arch": "amd64",
-      "url": "https://github.com/spinframework/spin-trigger-mqtt/releases/download/v0.7.1/trigger-mqtt-0.7.1-macos-amd64.tar.gz",
-      "sha256": "c438590aef23f6af9de734c1f089cf5255827cdfb165ea820faa41a875b56f04"
+      "url": "https://github.com/spinframework/spin-trigger-mqtt/releases/download/v0.7.2/trigger-mqtt-0.7.2-windows-amd64.tar.gz",
+      "sha256": "e3e72529ec526c4824b9a397d50bfb18a24cec3627c305273de9d5c49297d1f9"
     },
     {
       "os": "linux",
-      "arch": "amd64",
-      "url": "https://github.com/spinframework/spin-trigger-mqtt/releases/download/v0.7.1/trigger-mqtt-0.7.1-linux-amd64.tar.gz",
-      "sha256": "0a286668c30bca508babe50eed3ec82f0513373ad104e5a1a14a65e900891967"
+      "arch": "aarch64",
+      "url": "https://github.com/spinframework/spin-trigger-mqtt/releases/download/v0.7.2/trigger-mqtt-0.7.2-linux-aarch64.tar.gz",
+      "sha256": "1e1ae7fd80bdc99239d0e35efbf407244c138133ebbe5872401ff45f9e0c251e"
     },
     {
       "os": "macos",
       "arch": "aarch64",
-      "url": "https://github.com/spinframework/spin-trigger-mqtt/releases/download/v0.7.1/trigger-mqtt-0.7.1-macos-aarch64.tar.gz",
-      "sha256": "bdd3192c01303de2162b417e6b8afea75c110d4718f6beac65d8d987e401261c"
+      "url": "https://github.com/spinframework/spin-trigger-mqtt/releases/download/v0.7.2/trigger-mqtt-0.7.2-macos-aarch64.tar.gz",
+      "sha256": "2836b4d2cf4b077ce991aea27a56ad28178dc8edceb036a9c4bca5892e566ed4"
     }
   ]
 }
