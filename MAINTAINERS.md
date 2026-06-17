@@ -8,8 +8,9 @@
 | **karthik2804** | Karthik Ganeshram |
 | **kate-goldenring** | Kate Goldenring |
 | **bacongobbler** | Matthew Fisher |
-| **vdice** | Vaughn Dice |
 
 ## Emeritus Maintainers
 
-None
+| GitHub Username | Name |
+| --- | --- |
+| **vdice** | Vaughn Dice |
