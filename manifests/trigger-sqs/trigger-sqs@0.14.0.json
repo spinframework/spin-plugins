@@ -1,0 +1,39 @@
+{
+  "name": "trigger-sqs",
+  "description": "A Spin trigger for Amazon SQS events",
+  "version": "0.14.0",
+  "spinCompatibility": ">=2.2",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/sqs-v0.14.0/trigger-sqs-0.14.0-linux-amd64.tar.gz",
+      "sha256": "61d30397abc1f13ebf2c1e81d267754d15439cfb3fd1cdb2a47fcd47b0410695"
+    },
+    {
+      "os": "linux",
+      "arch": "aarch64",
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/sqs-v0.14.0/trigger-sqs-0.14.0-linux-aarch64.tar.gz",
+      "sha256": "027eccd20df1c3ce483a1ea63cb706b0899ba270e4a9e973ffc8ecdf554530f6"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/sqs-v0.14.0/trigger-sqs-0.14.0-macos-amd64.tar.gz",
+      "sha256": "13abfdb60e70e60da13ebd037500ded55e7f6e449e45103c4b28d59ddb510738"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/sqs-v0.14.0/trigger-sqs-0.14.0-macos-aarch64.tar.gz",
+      "sha256": "3841bb7327725401128a0441d8c57eecc7b9fdd62f3992a30fcd4ea217c6aee1"
+    },
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/sqs-v0.14.0/trigger-sqs-0.14.0-windows-amd64.tar.gz",
+      "sha256": "0d039dc2c5b14b431331af98dc92feed200d91e0308500282f5435748f29ef45"
+    }
+  ]
+}
