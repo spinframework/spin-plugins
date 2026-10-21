@@ -1,39 +1,39 @@
 {
   "name": "trigger-command",
   "description": "A Spin trigger that executes the WASI main function of a component.",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "spinCompatibility": ">=2.0",
   "license": "Apache-2.0",
   "packages": [
     {
       "os": "linux",
       "arch": "amd64",
-      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/command-v0.7.3/trigger-command-0.7.3-linux-amd64.tar.gz",
-      "sha256": "3d2eb61d8f610bf5e3b5f97da1202ff01cc225c5f0f1d8634e14584e75fb3801"
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/command-v0.7.4/trigger-command-0.7.4-linux-amd64.tar.gz",
+      "sha256": "5f11aaaf0a8266e04bec92c92d74626717afac51d51b7f2c5938309a9340b0ee"
     },
     {
       "os": "linux",
       "arch": "aarch64",
-      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/command-v0.7.3/trigger-command-0.7.3-linux-aarch64.tar.gz",
-      "sha256": "11b1f65f8bee899ba3f1fef0ccfb2244a5358c031a00e17afca8b34d8bb2b538"
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/command-v0.7.4/trigger-command-0.7.4-linux-aarch64.tar.gz",
+      "sha256": "76c392698154f69619d7702a102248b09e2dd85ef4f9f0fa098878ee90ea5e96"
     },
     {
       "os": "macos",
       "arch": "amd64",
-      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/command-v0.7.3/trigger-command-0.7.3-macos-amd64.tar.gz",
-      "sha256": "a1182f66674ab6c46a993d2cea9385b3c7a2019be5b0abcd688254ff311364ce"
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/command-v0.7.4/trigger-command-0.7.4-macos-amd64.tar.gz",
+      "sha256": "d2217122c0c490efa7865dbd94d3d88ae5f4440172eed3702d52cc9450b94cbc"
     },
     {
       "os": "macos",
       "arch": "aarch64",
-      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/command-v0.7.3/trigger-command-0.7.3-macos-aarch64.tar.gz",
-      "sha256": "89356b764cffea201d3b409ae7f2258b07ce19af4deced758a4b295242aacff3"
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/command-v0.7.4/trigger-command-0.7.4-macos-aarch64.tar.gz",
+      "sha256": "bfdaf9b30a8f3dd4df3d3e519c61cee28d6638b56e10591a92e2a727f345c458"
     },
     {
       "os": "windows",
       "arch": "amd64",
-      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/command-v0.7.3/trigger-command-0.7.3-windows-amd64.tar.gz",
-      "sha256": "d551ef675849c36d96bd11380dcb0510e680d7e51207d9bba0dfa2e096ba0905"
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/command-v0.7.4/trigger-command-0.7.4-windows-amd64.tar.gz",
+      "sha256": "42f34e21999a147b11f1a67cf6b1593ed2f4677140f30e8ad05a8b4eba3442ee"
     }
   ]
 }
