@@ -1,0 +1,39 @@
+{
+  "name": "trigger-cron",
+  "description": "A Spin trigger for Cron events",
+  "version": "0.6.3",
+  "spinCompatibility": ">=3.0",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/cron-v0.6.3/trigger-cron-0.6.3-linux-amd64.tar.gz",
+      "sha256": "300896002fa31ed81aa9522aa5abe7843e3ea667fc4940a5c7e6995afc8470ec"
+    },
+    {
+      "os": "linux",
+      "arch": "aarch64",
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/cron-v0.6.3/trigger-cron-0.6.3-linux-aarch64.tar.gz",
+      "sha256": "4f946f51c7f97e56d9f73708f10136f1be6677cd8104ee72f92e61d05a795726"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/cron-v0.6.3/trigger-cron-0.6.3-macos-amd64.tar.gz",
+      "sha256": "02f58bea2f23070433a091355259f7c972b57cf1603907bf5db8f2f38802939c"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/cron-v0.6.3/trigger-cron-0.6.3-macos-aarch64.tar.gz",
+      "sha256": "10c087b4b124ea62c306d5a8920b86a9f770639ad7f6f3bd093d7b279a9498b1"
+    },
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/cron-v0.6.3/trigger-cron-0.6.3-windows-amd64.tar.gz",
+      "sha256": "bd718e5517ad0d7a053c752db464ea6450484013f02bb0f47d56fe3f79fa0bf4"
+    }
+  ]
+}
