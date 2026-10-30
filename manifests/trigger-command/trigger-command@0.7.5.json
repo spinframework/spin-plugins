@@ -1,0 +1,39 @@
+{
+  "name": "trigger-command",
+  "description": "A Spin trigger that executes the WASI main function of a component.",
+  "version": "0.7.5",
+  "spinCompatibility": ">=2.0",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/command-v0.7.5/trigger-command-0.7.5-linux-amd64.tar.gz",
+      "sha256": "397d06947a9697cebd0febcf2ec499661a477aa442158f1dc4d49606a5ed1b9f"
+    },
+    {
+      "os": "linux",
+      "arch": "aarch64",
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/command-v0.7.5/trigger-command-0.7.5-linux-aarch64.tar.gz",
+      "sha256": "3b5fb79ee65f8fb276e96e0400281f5763b2ca26e73d6006ac97bc09c693ae0a"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/command-v0.7.5/trigger-command-0.7.5-macos-amd64.tar.gz",
+      "sha256": "c0cc40ca979b175e112419641d575538dcf4563ede07e35a8d7d696c2f8cb6bd"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/command-v0.7.5/trigger-command-0.7.5-macos-aarch64.tar.gz",
+      "sha256": "a3c54d071fe68225945f15b048bc00ca644072110e16015ce383806c1caa810b"
+    },
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "url": "https://github.com/spinframework/spin-trigger-plugins/releases/download/command-v0.7.5/trigger-command-0.7.5-windows-amd64.tar.gz",
+      "sha256": "63629cbc81f13ca403b3e1a11422655e3573f4df2dae4fa8b9e0680f103d0968"
+    }
+  ]
+}
