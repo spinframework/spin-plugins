@@ -1,0 +1,40 @@
+{
+  "name": "aka",
+  "description": "Akamai Functions plug-in.",
+  "homepage": "https://techdocs.akamai.com/akamai-functions/docs/welcome",
+  "version": "0.7.9",
+  "spinCompatibility": ">=3.1",
+  "license": "Apache-2.0",
+  "packages": [
+    {
+      "os": "linux",
+      "arch": "amd64",
+      "url": "https://s3.amazonaws.com/fermyon-neutrino-artifacts-public/plugin/aka-0.7.9-linux-amd64.tar.gz",
+      "sha256": "2f41b0470a175e8e35c0cd53310b56b5c3bb9bf66c564a28005d3a9b8107849b"
+    },
+    {
+      "os": "linux",
+      "arch": "aarch64",
+      "url": "https://s3.amazonaws.com/fermyon-neutrino-artifacts-public/plugin/aka-0.7.9-linux-aarch64.tar.gz",
+      "sha256": "20630d1eb516431567d344cc716814936840f9c464216b15ffd27ba5ee510346"
+    },
+    {
+      "os": "macos",
+      "arch": "aarch64",
+      "url": "https://s3.amazonaws.com/fermyon-neutrino-artifacts-public/plugin/aka-0.7.9-macos-aarch64.tar.gz",
+      "sha256": "96725284e01845a2436271e7de582cd71ee21de19df16cba5c234ad8d1285bb2"
+    },
+    {
+      "os": "macos",
+      "arch": "amd64",
+      "url": "https://s3.amazonaws.com/fermyon-neutrino-artifacts-public/plugin/aka-0.7.9-macos-amd64.tar.gz",
+      "sha256": "51d919b06334c87addb6e739a56dcb01fa2edf801e244eb9810effe90093296b"
+    },
+    {
+      "os": "windows",
+      "arch": "amd64",
+      "url": "https://s3.amazonaws.com/fermyon-neutrino-artifacts-public/plugin/aka-0.7.9-windows-amd64.tar.gz",
+      "sha256": "acfc282f98016db6e1e4b54c71959bda3c466dfe1b89f3696f9a1f49a35712b8"
+    }
+  ]
+}
